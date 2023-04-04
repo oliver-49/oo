@@ -1,0 +1,90 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+mark{
+    background-color: black;
+        color: green;
+}
+.po{background-color:#f1eaea ;
+padding: 20px ;
+text-align: center;
+font-weight: 700;
+font-size: 20px;
+}
+figure{
+
+    background-color: aquamarine;
+    text-align: center;
+width: 600px;
+}
+figcaption{
+    background-color: black;
+    color: green;
+}
+header{
+    background-color: #333;
+    color: #ddd;
+   
+    padding: 20px ;
+    margin: 0px;
+}
+footer{
+    background-color: #333;
+    color: #ddd;
+   text-align: center;
+}
+nav{
+    background-color: #ddd;
+    text-align: center;
+}
+nav ul li{
+    
+    display: inline-block;
+  
+}
+nav ul{
+    padding: 10px;
+}
+nav ul li:after{
+    content: " |";
+}
+nav ul .oo:after{
+    content: "";
+}
+article{
+    border: #333 solid 2px;
+    background-color: #e1dbdb;
+    margin: 20px auto ;
+    padding: 10x;
+    
+}
+article header{
+    color: black;
+    padding: 5px;
+    background-color: #cac5c5;
+    
+}
+.hh{padding: 5px;}
+aside{
+    border: #333 solid 2px;
+    color: black;
+    padding: 5px;
+    background-color:  #d1d1d1;
+    width: 29%;
+    float: right;
+    margin: 20px ;
+    padding: 10px;
+}
+aside ul li{list-style-type: none;}
+.you{width: 65%;
+float: left;
+
+}
+p{clear: both;}
+aside h3{
+    text-align: center;
+    background-color:#cac5c5 ;
+}
+aside ul{margin: 5px;}
